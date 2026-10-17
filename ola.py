@@ -1,1 +1,3 @@
-﻿print("Versao A")
+
+print("Versao B")
+
